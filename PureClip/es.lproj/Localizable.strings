@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   Spanish localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "Limpiar portapapeles";
+"menu.preferences" = "Preferencias…";
+"menu.quit" = "Salir de PureClip";
+
+/* Preferences Window */
+"prefs.window_title" = "Preferencias";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "Notificaciones";
+"prefs.notifications.toggle" = "Mostrar notificación al limpiar";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "Atajo de teclado";
+"prefs.shortcut.current" = "Actual:";
+"prefs.shortcut.reset" = "Restaurar predeterminado";
+"prefs.shortcut.change" = "Cambiar atajo…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "Espacios en blanco";
+"prefs.whitespace.tabs" = "Tabulaciones";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "Pulsa el nuevo atajo";
+"shortcut_capture.waiting" = "Esperando…";
+"shortcut_capture.cancel" = "Cancelar";
+"shortcut_capture.save" = "Guardar";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "Pulsa un atajo antes de guardar.";
+"shortcut_capture.error.registration_failed" = "No se pudo registrar este atajo. Puede estar en uso por el sistema u otra aplicación. Por favor, prueba una combinación diferente.";
+"shortcut_capture.error.unsupported_key" = "Tecla no compatible.";
+"shortcut_capture.error.needs_modifier" = "Incluye al menos un modificador.";
+"shortcut_capture.error.invalid_character" = "Usa letras, números o símbolos estándar.";
+
+/* Detab Mode Labels */
+"detab.off" = "Dejar tabulaciones como están";
+"detab.two" = "Expandir tabulaciones a 2 espacios";
+"detab.four" = "Expandir tabulaciones a 4 espacios";
+"detab.eight" = "Expandir tabulaciones a 8 espacios";
+
+/* Special Key Names */
+"key.space" = "Espacio";
+"key.esc" = "Esc";
+
+/* Notifications */
+"notification.clean.title" = "Portapapeles limpiado";
+"notification.clean.body" = "PureClip ha convertido el portapapeles a texto sin formato.";

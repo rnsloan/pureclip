@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   Chinese (Simplified) localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "清理剪贴板";
+"menu.preferences" = "偏好设置…";
+"menu.quit" = "退出 PureClip";
+
+/* Preferences Window */
+"prefs.window_title" = "偏好设置";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "通知";
+"prefs.notifications.toggle" = "清理时显示通知";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "键盘快捷键";
+"prefs.shortcut.current" = "当前:";
+"prefs.shortcut.reset" = "恢复默认";
+"prefs.shortcut.change" = "更改快捷键…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "空白字符";
+"prefs.whitespace.tabs" = "制表符";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "请按新的快捷键";
+"shortcut_capture.waiting" = "等待中…";
+"shortcut_capture.cancel" = "取消";
+"shortcut_capture.save" = "保存";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "保存前请按快捷键。";
+"shortcut_capture.error.registration_failed" = "无法注册此快捷键。它可能正被系统或其他应用程序使用。请尝试其他组合。";
+"shortcut_capture.error.unsupported_key" = "不支持的按键。";
+"shortcut_capture.error.needs_modifier" = "请至少包含一个修饰键。";
+"shortcut_capture.error.invalid_character" = "请使用字母、数字或标准符号。";
+
+/* Detab Mode Labels */
+"detab.off" = "保持制表符不变";
+"detab.two" = "将制表符展开为 2 个空格";
+"detab.four" = "将制表符展开为 4 个空格";
+"detab.eight" = "将制表符展开为 8 个空格";
+
+/* Special Key Names */
+"key.space" = "空格";
+"key.esc" = "Esc";
+
+/* Notifications */
+"notification.clean.title" = "剪贴板已清理";
+"notification.clean.body" = "PureClip 已将剪贴板转换为纯文本。";

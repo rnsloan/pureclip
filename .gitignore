@@ -1,0 +1,24 @@
+# Xcode user state
+**/*.xcuserstate
+**/*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+
+# Build products
+DerivedData/
+build/
+dmg-staging/
+*.dmg
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# General macOS cruft
+.DS_Store
+
+# Xcode per-user schemes
+xcuserdata/
+
+# Claude Code workspace
+.claude/

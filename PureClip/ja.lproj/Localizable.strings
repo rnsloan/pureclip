@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   Japanese localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "クリップボードをクリーンアップ";
+"menu.preferences" = "環境設定…";
+"menu.quit" = "PureClipを終了";
+
+/* Preferences Window */
+"prefs.window_title" = "環境設定";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "通知";
+"prefs.notifications.toggle" = "クリーンアップ時に通知を表示";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "キーボードショートカット";
+"prefs.shortcut.current" = "現在:";
+"prefs.shortcut.reset" = "デフォルトにリセット";
+"prefs.shortcut.change" = "ショートカットを変更…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "空白文字";
+"prefs.whitespace.tabs" = "タブ";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "新しいショートカットを押してください";
+"shortcut_capture.waiting" = "待機中…";
+"shortcut_capture.cancel" = "キャンセル";
+"shortcut_capture.save" = "保存";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "保存する前にショートカットを押してください。";
+"shortcut_capture.error.registration_failed" = "このショートカットを登録できませんでした。システムまたは別のアプリで使用されている可能性があります。別の組み合わせをお試しください。";
+"shortcut_capture.error.unsupported_key" = "サポートされていないキーです。";
+"shortcut_capture.error.needs_modifier" = "少なくとも1つの修飾キーを含めてください。";
+"shortcut_capture.error.invalid_character" = "文字、数字、または標準記号を使用してください。";
+
+/* Detab Mode Labels */
+"detab.off" = "タブをそのまま残す";
+"detab.two" = "タブを2つのスペースに展開";
+"detab.four" = "タブを4つのスペースに展開";
+"detab.eight" = "タブを8つのスペースに展開";
+
+/* Special Key Names */
+"key.space" = "スペース";
+"key.esc" = "Esc";
+
+/* Notifications */
+"notification.clean.title" = "クリップボードをクリーンアップしました";
+"notification.clean.body" = "PureClipがクリップボードをプレーンテキストに変換しました。";

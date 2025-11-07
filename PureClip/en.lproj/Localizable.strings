@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   English localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "Clean Clipboard";
+"menu.preferences" = "Preferences…";
+"menu.quit" = "Quit PureClip";
+
+/* Preferences Window */
+"prefs.window_title" = "Preferences";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "Notifications";
+"prefs.notifications.toggle" = "Show notification on clean";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "Keyboard shortcut";
+"prefs.shortcut.current" = "Current:";
+"prefs.shortcut.reset" = "Reset Default";
+"prefs.shortcut.change" = "Change Shortcut…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "Whitespace";
+"prefs.whitespace.tabs" = "Tabs";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "Press the new shortcut";
+"shortcut_capture.waiting" = "Waiting…";
+"shortcut_capture.cancel" = "Cancel";
+"shortcut_capture.save" = "Save";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "Press a shortcut before saving.";
+"shortcut_capture.error.registration_failed" = "This shortcut couldn't be registered. It may be in use by the system or another app. Please try a different combination.";
+"shortcut_capture.error.unsupported_key" = "Unsupported key.";
+"shortcut_capture.error.needs_modifier" = "Include at least one modifier.";
+"shortcut_capture.error.invalid_character" = "Use letters, numbers, or standard symbols.";
+
+/* Detab Mode Labels */
+"detab.off" = "Leave tabs as-is";
+"detab.two" = "Expand tabs to 2 spaces";
+"detab.four" = "Expand tabs to 4 spaces";
+"detab.eight" = "Expand tabs to 8 spaces";
+
+/* Special Key Names */
+"key.space" = "Space";
+"key.esc" = "Esc";
+
+/* Notifications */
+"notification.clean.title" = "Clipboard cleaned";
+"notification.clean.body" = "PureClip converted the clipboard to plain text.";

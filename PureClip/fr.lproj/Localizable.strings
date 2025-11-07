@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   French localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "Nettoyer le presse-papiers";
+"menu.preferences" = "Préférences…";
+"menu.quit" = "Quitter PureClip";
+
+/* Preferences Window */
+"prefs.window_title" = "Préférences";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "Notifications";
+"prefs.notifications.toggle" = "Afficher une notification lors du nettoyage";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "Raccourci clavier";
+"prefs.shortcut.current" = "Actuel :";
+"prefs.shortcut.reset" = "Réinitialiser par défaut";
+"prefs.shortcut.change" = "Modifier le raccourci…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "Espaces blancs";
+"prefs.whitespace.tabs" = "Tabulations";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "Appuyez sur le nouveau raccourci";
+"shortcut_capture.waiting" = "En attente…";
+"shortcut_capture.cancel" = "Annuler";
+"shortcut_capture.save" = "Enregistrer";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "Appuyez sur un raccourci avant d'enregistrer.";
+"shortcut_capture.error.registration_failed" = "Ce raccourci n'a pas pu être enregistré. Il est peut-être utilisé par le système ou une autre application. Veuillez essayer une combinaison différente.";
+"shortcut_capture.error.unsupported_key" = "Touche non prise en charge.";
+"shortcut_capture.error.needs_modifier" = "Incluez au moins un modificateur.";
+"shortcut_capture.error.invalid_character" = "Utilisez des lettres, des chiffres ou des symboles standard.";
+
+/* Detab Mode Labels */
+"detab.off" = "Laisser les tabulations telles quelles";
+"detab.two" = "Développer les tabulations en 2 espaces";
+"detab.four" = "Développer les tabulations en 4 espaces";
+"detab.eight" = "Développer les tabulations en 8 espaces";
+
+/* Special Key Names */
+"key.space" = "Espace";
+"key.esc" = "Échap";
+
+/* Notifications */
+"notification.clean.title" = "Presse-papiers nettoyé";
+"notification.clean.body" = "PureClip a converti le presse-papiers en texte brut.";

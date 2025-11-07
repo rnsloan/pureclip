@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "37BB6C85-17C5-4F5D-8F4B-76A4EF716469",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:PureClip.xcodeproj",
+        "identifier" : "TEST0F1A2EB5E58A00FBB614",
+        "name" : "PureClipTests"
+      }
+    }
+  ],
+  "version" : 1
+}

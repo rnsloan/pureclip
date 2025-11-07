@@ -1,0 +1,58 @@
+/*
+   Localizable.strings
+   PureClip
+
+   German localization
+*/
+
+/* Menu Bar Items */
+"menu.clean_clipboard" = "Zwischenablage bereinigen";
+"menu.preferences" = "Einstellungen…";
+"menu.quit" = "PureClip beenden";
+
+/* Preferences Window */
+"prefs.window_title" = "Einstellungen";
+
+/* Preferences - Notifications Section */
+"prefs.section.notifications" = "Mitteilungen";
+"prefs.notifications.toggle" = "Mitteilung beim Bereinigen anzeigen";
+
+/* Preferences - Keyboard Shortcut Section */
+"prefs.section.keyboard_shortcut" = "Tastaturkürzel";
+"prefs.shortcut.current" = "Aktuell:";
+"prefs.shortcut.reset" = "Standard wiederherstellen";
+"prefs.shortcut.change" = "Tastaturkürzel ändern…";
+
+/* Preferences - Whitespace Section */
+"prefs.section.whitespace" = "Leerzeichen";
+"prefs.whitespace.tabs" = "Tabulatoren";
+
+/* Preferences - Version Footer */
+"prefs.version" = "PureClip v%@";
+
+/* Shortcut Capture View */
+"shortcut_capture.title" = "Drücken Sie das neue Tastaturkürzel";
+"shortcut_capture.waiting" = "Warten…";
+"shortcut_capture.cancel" = "Abbrechen";
+"shortcut_capture.save" = "Sichern";
+
+/* Shortcut Capture Errors */
+"shortcut_capture.error.no_shortcut" = "Drücken Sie ein Tastaturkürzel, bevor Sie speichern.";
+"shortcut_capture.error.registration_failed" = "Dieses Tastaturkürzel konnte nicht registriert werden. Es wird möglicherweise vom System oder einer anderen App verwendet. Bitte versuchen Sie eine andere Kombination.";
+"shortcut_capture.error.unsupported_key" = "Nicht unterstützte Taste.";
+"shortcut_capture.error.needs_modifier" = "Fügen Sie mindestens einen Modifikator hinzu.";
+"shortcut_capture.error.invalid_character" = "Verwenden Sie Buchstaben, Zahlen oder Standardsymbole.";
+
+/* Detab Mode Labels */
+"detab.off" = "Tabulatoren unverändert lassen";
+"detab.two" = "Tabulatoren in 2 Leerzeichen umwandeln";
+"detab.four" = "Tabulatoren in 4 Leerzeichen umwandeln";
+"detab.eight" = "Tabulatoren in 8 Leerzeichen umwandeln";
+
+/* Special Key Names */
+"key.space" = "Leertaste";
+"key.esc" = "Esc";
+
+/* Notifications */
+"notification.clean.title" = "Zwischenablage bereinigt";
+"notification.clean.body" = "PureClip hat die Zwischenablage in reinen Text umgewandelt.";
