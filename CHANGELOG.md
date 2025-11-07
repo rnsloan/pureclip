@@ -31,5 +31,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - macOS 13.5 or newer support (tests require macOS 14.0+)
 - Zero external dependencies
 
-[Unreleased]: https://github.com/yourusername/PureClip/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/yourusername/PureClip/releases/tag/v1.0.0
+[Unreleased]: https://github.com/rnsloan/pureclip/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/rnsloan/pureclip/releases/tag/v1.0.0
