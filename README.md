@@ -1,6 +1,6 @@
 # PureClip
 
-![PureClip logo](https://github.com/user-attachments/assets/bfb929d4-a228-4c63-9d7d-5c16a155e13d)
+![PureClip logo](https://github.com/user-attachments/assets/ae50421b-8a25-4ca1-a8b6-93b73c0617f2)
 
 PureClip is a lightweight macOS menu-bar utility that converts the clipboard to plain text.
 
@@ -18,7 +18,7 @@ It keeps indentation intact, strips rich-text styling, and gives you a single ho
 ## Installation
 
 ### Download Pre-built Release
-1. Download the latest `PureClip.dmg` from [Releases](https://github.com/yourusername/PureClip/releases)
+1. Download the latest `PureClip.dmg` from [Releases](https://github.com/rnsloan/pureclip/releases)
 2. Open the DMG and drag PureClip to your Applications folder
 3. **First launch**: Right-click PureClip and select "Open" (required due to unsigned app)
 4. Click "Open" when prompted about an app from an unidentified developer
