@@ -11,7 +11,8 @@ It keeps indentation intact, strips rich-text styling, and gives you a single ho
 - Cleans the clipboard to plain text while preserving line breaks and tabs
 - Configurable global shortcut, Notifications, and detab mode: expand tabs to 2/4/8 spaces for code-friendly pastes
 - Multiple language support: English, Spanish (Español), French (Français), German (Deutsch), Japanese (日本語), Chinese Simplified (简体中文)
-- Zero external dependencies — built entirely with SwiftUI + AppKit
+- Zero external dependencies — built entirely with SwiftUI + AppKit 
+- Currently, Apple Silicon (arm64) only
 
 ![Demo video](https://github.com/user-attachments/assets/805d94ed-1bb4-4a56-9d1b-4f68ede0ca7c)
 
